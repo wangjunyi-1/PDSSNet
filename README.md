@@ -8,3 +8,7 @@ Junyi Wang, Jinjiang Li, Guodong Fan<sup>&#42;</sup><br>
 ## 🛠️ Installation and Usage
 
 PDSSNet follows the same environment setup, dataset preparation, and training and evaluation pipeline as [PAFCN](https://github.com/wangjunyi-1/PAFCN). Please refer to the PAFCN repository for detailed instructions.
+
+## ⚠️ Notice
+
+Please use the versions of `vaihingen_test.py` and `train_supervision.py` provided in this repository. These scripts have been specifically adapted for PDSSNet and may differ from those in the original GeoSeg or PAFCN repositories.
